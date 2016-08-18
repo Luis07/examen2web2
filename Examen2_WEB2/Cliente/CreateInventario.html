@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title></title>
+	<meta charset="utf-8" />
+    <link href="Content/bootstrap.css" rel="stylesheet">
+<link href="Content/site.css" rel="stylesheet">
+<link href="Content/animate.css" rel="stylesheet">
+
+</head>
+<body onload="traerProducto();">
+    <div class="container">
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right">
+                <li class="dropdown">
+                        <select name="Producto" id="producto">
+                            <option></option>
+                        </select>
+                    </li>
+            </ul>
+        </div>
+         <div class="col-md-4">
+            <span class="label label-success">cantidad</span>
+            <input type="text" class="form-control" placeholder="cantidad" id="cantidad">
+        </div>
+        <div class="col-md-4">
+            <span class="label label-success">cantidadminima</span>
+            <input type="text" class="form-control" placeholder="cantidadminima" id="cantidadminima">
+        </div>
+        <div class="col-md-4">
+            <span class="label label-success">cantidadmaxima</span>
+            <input type="text" class="form-control" placeholder="cantidadmaxima" id="cantidadmaxima">
+        </div>
+        <div class="col-md-2">
+            <span class="label label-success">gravadoexcepto</span>
+            <input type="text" class="form-control" placeholder="gravadoexcepto" id="gravadoexcepto">
+        </div>
+        <button class="btn"onclick="crearInventario();">Crear</button>
+    </div>
+    <script src="Scripts/jquery-1.10.2.js"></script>
+<script src="Scripts/bootstrap.js"></script>
+<script src="Scripts/modernizr-2.6.2.js"></script>
+<script src="Scripts/main.js"></script>
+
+</body>
+</html>

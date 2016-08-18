@@ -1,0 +1,105 @@
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\webApi\Candy\bin\roslyn\csc.exe
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\webApi\Candy\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\webApi\Candy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\webApi\Candy\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\webApi\Candy\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\webApi\Candy\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\webApi\Candy\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\webApi\Candy\bin\roslyn\System.Collections.Immutable.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\webApi\Candy\bin\roslyn\System.Reflection.Metadata.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\webApi\Candy\bin\roslyn\vbc.exe
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\webApi\Candy\bin\roslyn\VBCSCompiler.exe
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\webApi\Candy\bin\roslyn\VBCSCompiler.exe.config
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\webApi\Candy\bin\Candy.dll.config
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\webApi\Candy\bin\Candy.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\webApi\Candy\bin\Candy.pdb
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\webApi\Candy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\webApi\Candy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\webApi\Candy\obj\Debug\Candy.csprojResolveAssemblyReference.cache
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\webApi\Candy\obj\Debug\Candy.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\webApi\Candy\obj\Debug\Candy.pdb
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\Candy\bin\roslyn\csc.exe
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\Candy\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\Candy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\Candy\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\Candy\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\Candy\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\Candy\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\Candy\bin\roslyn\System.Collections.Immutable.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\Candy\bin\roslyn\System.Reflection.Metadata.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\Candy\bin\roslyn\vbc.exe
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\Candy\bin\roslyn\VBCSCompiler.exe
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\Candy\bin\roslyn\VBCSCompiler.exe.config
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\Candy\bin\Candy.dll.config
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\Candy\bin\Candy.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\Candy\bin\Candy.pdb
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\Candy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\Candy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\Candy\obj\Debug\Candy.csprojResolveAssemblyReference.cache
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\Candy\obj\Debug\Candy.dll
+D:\Drive\Universidad\UTN\2016\II Cuatrimestre\PROGRAMACIÓN EN AMBIENTE WEB II\Candy\Candy\obj\Debug\Candy.pdb
+C:\Users\Luis\Desktop\Candy\Candy\bin\roslyn\csc.exe
+C:\Users\Luis\Desktop\Candy\Candy\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Luis\Desktop\Candy\Candy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Luis\Desktop\Candy\Candy\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Luis\Desktop\Candy\Candy\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Luis\Desktop\Candy\Candy\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Luis\Desktop\Candy\Candy\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Luis\Desktop\Candy\Candy\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Luis\Desktop\Candy\Candy\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Luis\Desktop\Candy\Candy\bin\roslyn\vbc.exe
+C:\Users\Luis\Desktop\Candy\Candy\bin\roslyn\VBCSCompiler.exe
+C:\Users\Luis\Desktop\Candy\Candy\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Luis\Desktop\Candy\Candy\bin\Candy.dll.config
+C:\Users\Luis\Desktop\Candy\Candy\bin\Candy.dll
+C:\Users\Luis\Desktop\Candy\Candy\bin\Candy.pdb
+C:\Users\Luis\Desktop\Candy\Candy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Luis\Desktop\Candy\Candy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Luis\Desktop\Candy\Candy\obj\Debug\Candy.dll
+C:\Users\Luis\Desktop\Candy\Candy\obj\Debug\Candy.pdb
+C:\Users\Luis\Desktop\candy_crush\Candy\Candy\bin\roslyn\csc.exe
+C:\Users\Luis\Desktop\candy_crush\Candy\Candy\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Luis\Desktop\candy_crush\Candy\Candy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Luis\Desktop\candy_crush\Candy\Candy\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Luis\Desktop\candy_crush\Candy\Candy\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Luis\Desktop\candy_crush\Candy\Candy\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Luis\Desktop\candy_crush\Candy\Candy\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Luis\Desktop\candy_crush\Candy\Candy\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Luis\Desktop\candy_crush\Candy\Candy\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Luis\Desktop\candy_crush\Candy\Candy\bin\roslyn\vbc.exe
+C:\Users\Luis\Desktop\candy_crush\Candy\Candy\bin\roslyn\VBCSCompiler.exe
+C:\Users\Luis\Desktop\candy_crush\Candy\Candy\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Luis\Desktop\candy_crush\Candy\Candy\bin\Candy.dll.config
+C:\Users\Luis\Desktop\candy_crush\Candy\Candy\bin\Candy.dll
+C:\Users\Luis\Desktop\candy_crush\Candy\Candy\bin\Candy.pdb
+C:\Users\Luis\Desktop\candy_crush\Candy\Candy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Luis\Desktop\candy_crush\Candy\Candy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Luis\Desktop\candy_crush\Candy\Candy\obj\Debug\Candy.dll
+C:\Users\Luis\Desktop\candy_crush\Candy\Candy\obj\Debug\Candy.pdb
+C:\Users\Luis\Desktop\candy_crush\Candy\Candy\obj\Debug\Candy.csprojResolveAssemblyReference.cache
+C:\Users\Luis\Documents\GitHub\candy_crush\Candy\Candy\bin\roslyn\csc.exe
+C:\Users\Luis\Documents\GitHub\candy_crush\Candy\Candy\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Luis\Documents\GitHub\candy_crush\Candy\Candy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Luis\Documents\GitHub\candy_crush\Candy\Candy\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Luis\Documents\GitHub\candy_crush\Candy\Candy\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Luis\Documents\GitHub\candy_crush\Candy\Candy\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Luis\Documents\GitHub\candy_crush\Candy\Candy\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Luis\Documents\GitHub\candy_crush\Candy\Candy\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Luis\Documents\GitHub\candy_crush\Candy\Candy\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Luis\Documents\GitHub\candy_crush\Candy\Candy\bin\roslyn\vbc.exe
+C:\Users\Luis\Documents\GitHub\candy_crush\Candy\Candy\bin\roslyn\VBCSCompiler.exe
+C:\Users\Luis\Documents\GitHub\candy_crush\Candy\Candy\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Luis\Documents\GitHub\candy_crush\Candy\Candy\bin\Candy.dll.config
+C:\Users\Luis\Documents\GitHub\candy_crush\Candy\Candy\bin\Candy.dll
+C:\Users\Luis\Documents\GitHub\candy_crush\Candy\Candy\bin\Candy.pdb
+C:\Users\Luis\Documents\GitHub\candy_crush\Candy\Candy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Luis\Documents\GitHub\candy_crush\Candy\Candy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Luis\Documents\GitHub\candy_crush\Candy\Candy\obj\Debug\Candy.dll
+C:\Users\Luis\Documents\GitHub\candy_crush\Candy\Candy\obj\Debug\Candy.pdb
+C:\Users\Luis\Documents\GitHub\candy_crush\Candy\Candy\obj\Debug\Candy.csprojResolveAssemblyReference.cache
+C:\Users\Luis\Documents\GitHub\Candy_Color\proyectoCandy\Cliente\bin\Candy.dll.config
+C:\Users\Luis\Documents\GitHub\Candy_Color\proyectoCandy\Cliente\bin\Candy.dll
+C:\Users\Luis\Documents\GitHub\Candy_Color\proyectoCandy\Cliente\bin\Candy.pdb
+C:\Users\Luis\Documents\GitHub\Candy_Color\proyectoCandy\Cliente\obj\Debug\Candy.csprojResolveAssemblyReference.cache
+C:\Users\Luis\Documents\GitHub\Candy_Color\proyectoCandy\Cliente\obj\Debug\Candy.dll
+C:\Users\Luis\Documents\GitHub\Candy_Color\proyectoCandy\Cliente\obj\Debug\Candy.pdb

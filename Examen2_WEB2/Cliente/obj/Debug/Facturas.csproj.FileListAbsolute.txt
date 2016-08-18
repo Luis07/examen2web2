@@ -1,0 +1,6 @@
+C:\Users\Luis\Documents\Visual Studio 2015\Projects\Examen2_WEB2\Cliente\bin\Candy.dll.config
+C:\Users\Luis\Documents\Visual Studio 2015\Projects\Examen2_WEB2\Cliente\bin\Candy.dll
+C:\Users\Luis\Documents\Visual Studio 2015\Projects\Examen2_WEB2\Cliente\bin\Candy.pdb
+C:\Users\Luis\Documents\Visual Studio 2015\Projects\Examen2_WEB2\Cliente\obj\Debug\Facturas.csprojResolveAssemblyReference.cache
+C:\Users\Luis\Documents\Visual Studio 2015\Projects\Examen2_WEB2\Cliente\obj\Debug\Candy.dll
+C:\Users\Luis\Documents\Visual Studio 2015\Projects\Examen2_WEB2\Cliente\obj\Debug\Candy.pdb
